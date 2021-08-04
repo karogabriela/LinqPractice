@@ -1,0 +1,1 @@
+This is a beginner practice to learn about linq.
